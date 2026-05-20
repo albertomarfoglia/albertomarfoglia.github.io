@@ -1,27 +1,25 @@
+---
 cv:
   name: Alberto Marfoglia
   label: AI & Healthcare Data Engineer | PhD Candidate
   email: a.marfoglia@hotmail.it
   location: Bologna, Italy
   image: prof_pic.jpg
-
   summary: >
-    PhD candidate in Computer Science and Engineering specializing in trustworthy AI,
-    healthcare data engineering, and semantic interoperability. Experienced in designing
-    and deploying real-world clinical data infrastructures, combining machine learning,
-    knowledge graphs, HL7 FHIR, and Digital Twin technologies. Collaborates with hospitals,
-    research institutes, and EU-connected healthcare initiatives.
-
+    PhD candidate in Computer Science and Engineering specializing in
+    trustworthy AI, healthcare data engineering, and semantic interoperability.
+    Experienced in designing and deploying real-world clinical data
+    infrastructures, combining machine learning, knowledge graphs, HL7 FHIR, and
+    Digital Twin technologies. Collaborates with hospitals, research institutes,
+    and EU-connected healthcare initiatives.
   social_networks:
     - network: GitHub
       username: albertomarfoglia
     - network: Google Scholar
-      username: "BBfxevAAAAAJ"
+      username: BBfxevAAAAAJ
     - network: LinkedIn
-      username: "alberto-marfoglia-4212082bb"
-
+      username: alberto-marfoglia-4212082bb
   sections:
-
     Education:
       - institution: University of Bologna
         location: Bologna, Italy
@@ -33,42 +31,39 @@ cv:
           - Trustworthy AI, clinical data harmonization, Digital Twins
           - Knowledge graphs and graph learning for healthcare prediction
           - Best Workshop Paper Award (IEEE PerCom DIGITA 2025)
-
       - institution: University of Bologna
         location: Cesena, Italy
         area: Computer Science and Engineering
         studyType: MSc
         start_date: 2020
         end_date: 2023
-        score: "110/110 cum laude (29.8/30 average)"
+        score: 110/110 cum laude (29.8/30 average)
         highlights:
           - Thesis with Rizzoli Orthopaedic Institute (Bologna)
           - Healthcare interoperability and digital modeling
-
       - institution: University of Bologna
         location: Cesena, Italy
         area: Computer Science and Engineering
         studyType: BSc
         start_date: 2017
         end_date: 2020
-        score: "110/110 cum laude (28.5/30 average)"
+        score: 110/110 cum laude (28.5/30 average)
         highlights:
           - Pre-hospital trauma tracking system (clinical collaboration)
           - Early graduation with honors award
-
     Experience:
-
       - company: Inria – HEKA Research Unit (INSERM – Université Paris Cité)
         position: Visiting PhD Researcher
         location: Paris, France
         start_date: 2025
         end_date: present
         highlights:
-          - Developed graph-based clinical outcome prediction models (GCNs, KG learning)
+          - Developed graph-based clinical outcome prediction models (GCNs, KG
+            learning)
           - Analyzed impact of clinical data standards (FHIR, OMOP, SPHN)
-          - Collaborated with Nantes University Hospital (CHU de Nantes) within NEUROVASC project
+          - Collaborated with Nantes University Hospital (CHU de Nantes) within
+            NEUROVASC project
           - Worked on explainable AI for healthcare decision support
-
       - company: University of Bologna
         position: ICT Research Consultant (AlmaHealthDB)
         location: Bologna, Italy
@@ -76,10 +71,11 @@ cv:
         end_date: 2025
         highlights:
           - Engineered secure multi-user research infrastructure for AlmaHealthDB
-          - AlmaHealthDB: EU-connected healthcare data infrastructure (IRCCS network: Rizzoli, S. Orsola-Malpighi, Institute of Neurological Sciences)
-          - Implemented GPU optimization, role-based access control, secure data exchange
-          - Supported interoperability with regional infrastructure (Lepida S.c.p.A.)
-
+          - "AlmaHealthDB, EU-connected healthcare data infrastructure (IRCCS network": Rizzoli, S. Orsola-Malpighi, Institute of Neurological Sciences)
+          - Implemented GPU optimization, role-based access control, and secure
+            data exchange
+          - Supported interoperability with regional infrastructure (Lepida
+            S.c.p.A.)
       - company: Frontiers in Digital Health
         position: Topic Coordinator
         location: Remote
@@ -88,18 +84,18 @@ cv:
         highlights:
           - Coordinated special issue on Digital Twins in healthcare
           - Managed peer-review and interdisciplinary editorial workflow
-          - Defined scientific scope on AI, interoperability, and patient-centered systems
-
+          - Defined scientific scope on AI, interoperability, and
+            patient-centered systems
       - company: University of Bologna
         position: Research Fellow
         location: Bologna, Italy
         start_date: 2023
         end_date: 2023
         highlights:
-          - Designed FHIR-based clinical data transformation pipeline (Heal Italia)
+          - Designed FHIR-based clinical data transformation pipeline (Heal
+            Italia)
           - Developed ETL workflows for heterogeneous healthcare datasets
           - Contributed to data lake and backend infrastructure design
-
       - company: MEBLabs
         position: GenAI Research Engineer
         location: Fano, Italy
@@ -109,19 +105,17 @@ cv:
           - Developed RAG pipelines using LLMs and vector databases (FAISS)
           - Built semantic search systems with OpenAI API
           - Deployed AI prototypes on AWS cloud infrastructure
-
       - company: I-Tel S.r.l. / University of Bologna
         position: Research Scholarship Holder
         location: Cesena, Italy
         start_date: 2020
         end_date: 2021
         highlights:
-          - Designed microservice-based interoperability platform for healthcare systems
-          - Implemented HL7, FHIR, REST integration with legacy systems
-          - Built hexagonal architecture for healthcare data exchange
-
+          - Designed a microservice-based interoperability platform for
+            healthcare systems
+          - Implemented HL7, FHIR, and REST integration with legacy systems
+          - Built a hexagonal architecture for healthcare data exchange
     Projects:
-
       - name: CONNECTED – Digital Twin Healthcare Platform
         start_date: 2023
         end_date: present
@@ -131,57 +125,53 @@ cv:
           - Applied to stroke-risk and clinical outcome prediction benchmarks
           - Publications in PerCom (2024–2025), Frontiers in Digital Health, FGCS
           - Award: Best Workshop Paper (DIGITA 2025)
-
       - name: AlmaHealthDB
         start_date: 2024
         end_date: present
         highlights:
-          - Distributed healthcare research infrastructure across IRCCS hospitals (Bologna)
-          - Supports Rizzoli Orthopaedic Institute, S. Orsola-Malpighi, Neurological Sciences Institute
-          - EU-connected ecosystem (METASTRA, CPW, regional health service integration)
-
+          - Distributed healthcare research infrastructure across IRCCS
+            hospitals (Bologna)
+          - Supports Rizzoli Orthopaedic Institute, S. Orsola-Malpighi,
+            Neurological Sciences Institute
+          - EU-connected ecosystem (METASTRA, CPW, regional health service
+            integration)
       - name: FHIR Clinical Data Transformation Pipeline
         start_date: 2023
         end_date: present
         highlights:
-          - ETL pipeline for converting heterogeneous clinical datasets into HL7 FHIR
-          - Used in MOTU dataset, METASTRA project, and multi-center studies
+          - ETL pipeline for converting heterogeneous clinical datasets into HL7
+            FHIR
+          - Used in the MOTU dataset, the METASTRA project, and multi-center
+            studies
           - SNOMED CT-based semantic mapping and validation
-
     Publications:
-      - title: Challenges of health data standard adoption and usage: a systematic review
+      - title: Challenges of health data standard adoption and usage - a systematic
+          review
         journal: Journal of Biomedical Informatics
         year: 2026
         doi: https://doi.org/10.1016/j.jbi.2026.105022
-
-      - title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
+      - title: A knowledge graph-driven framework for deploying AI-powered patient
+          digital twins
         journal: Future Generation Computer Systems
         year: 2026
         doi: https://doi.org/10.1016/j.future.2026.108380
-
       - title: Towards real-world clinical data standardization using FHIR pipelines
         journal: Computers in Biology and Medicine
         year: 2025
         doi: https://doi.org/10.1016/j.compbiomed.2025.109745
-
-      - title: CONNECTED: Knowledge Graph-driven Digital Twin platform
+      - title: CONNECTED - Knowledge Graph-driven Digital Twin platform
         journal: Frontiers in Digital Health
         year: 2023
         doi: https://doi.org/10.3389/fdgth.2023.1322428
-
       - title: FHIR-standardized clinical dataset for rehabilitation pathways
         journal: Scientific Data (Nature)
         year: 2024
         doi: https://doi.org/10.1038/s41597-024-03593-6
-
       - title: MLOps and LLM-based clinical data harmonization
         journal: CEUR / IEEE Workshops
         year: 2025
         highlights:
           - PerCom Workshops, MLOps25, SWAT4HCLS
-
-      # ---- Newly added publications ----
-
       - title: Clinical Data Goes MEDS? Let’s OWL make sense of it
         authors:
           - Marfoglia A.
@@ -191,7 +181,6 @@ cv:
         year: 2026
         doi: https://doi.org/10.48550/arXiv.2601.04164
         note: arXiv preprint
-
       - title: A LLMOps-Driven Framework for Clinical Data Harmonization
         authors:
           - Marfoglia A.
@@ -203,8 +192,8 @@ cv:
         year: 2025
         pages: 25–36
         url: https://ceur-ws.org/Vol-4109/paper3.pdf
-
-      - title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
+      - title: Feasibility of MLOps-based healthcare pipelines in ensuring the
+          Cybersecurity Framework
         authors:
           - Robustelli A.
           - Marfoglia A.
@@ -215,8 +204,8 @@ cv:
         year: 2025
         pages: 1–12
         url: https://ceur-ws.org/Vol-4109/paper1.pdf
-
-      - title: CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare
+      - title: CONNECTED - A Knowledge Graph-Driven Platform for Clinical Data
+          Harmonization and Personalized Digital Twin-Based Healthcare
         authors:
           - Marfoglia A.
           - D’Errico C.
@@ -226,8 +215,8 @@ cv:
         venue: IEEE PerCom Workshops 2025
         year: 2025
         doi: https://doi.org/10.1109/PerComWorkshops65533.2025.00051
-
-      - title: Representation of Machine Learning Models to Enhance Simulation Capabilities Within Digital Twins in Personalized Healthcare
+      - title: Representation of Machine Learning Models to Enhance Simulation
+          Capabilities Within Digital Twins in Personalized Healthcare
         authors:
           - Marfoglia A.
           - Nardini F.
@@ -236,8 +225,8 @@ cv:
         venue: IEEE PerCom Workshops 2024
         year: 2024
         doi: https://doi.org/10.1109/PerComWorkshops59983.2024.10502444
-
-      - title: MOTU on FHIR: A preliminary strategy to enable interoperability for retrospective dataset standardization
+      - title: MOTU on FHIR - A preliminary strategy to enable interoperability for
+          retrospective dataset standardization
         authors:
           - Arcobelli V. A.
           - Moscato S.
@@ -249,39 +238,34 @@ cv:
           - Palumbo P.
           - Chiari L.
           - Mellone S.
-        venue: IEEE EMBS Conference on Data Science and Engineering in Healthcare, Medicine and Biology
+        venue: IEEE EMBS Conference on Data Science and Engineering in Healthcare,
+          Medicine and Biology
         year: 2023
         doi: https://doi.org/10.1109/IEEECONF58974.2023.10404816
-
     Skills:
-
       AI & Machine Learning:
         - Graph Neural Networks (GCN)
         - Knowledge Graph Embeddings
         - Explainable AI (SHAP, attention models)
         - NLP & LLMs (HuggingFace, BioBERT, BioMistral)
         - RAG systems
-
       Healthcare Data:
         - HL7 FHIR
         - OMOP
         - openEHR
         - SNOMED CT, LOINC
         - Clinical data harmonization
-
       Semantic Technologies:
         - RDF / OWL
         - SPARQL
         - Ontology engineering (Protégé)
         - Apache Jena
-
       Software & Infrastructure:
         - Python, Java, Scala, Kotlin, JavaScript
         - Docker, Git, CI/CD (GitLab)
         - AWS cloud
         - Linux systems, HPC
         - Microservices, hexagonal architecture
-
     Languages:
       - name: Italian
         level: Native
@@ -289,7 +273,6 @@ cv:
         level: C1
       - name: French
         level: A2
-
     Collaborations:
       - CHU de Nantes (France) – NEUROVASC project
       - Rizzoli Orthopaedic Institute (Bologna)
@@ -297,4 +280,3 @@ cv:
       - Institute of Neurological Sciences (Bologna)
       - METASTRA EU-linked clinical study
       - Cancer Prevention at Work (CPW) consortium
-"""
