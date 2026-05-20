@@ -1,126 +1,228 @@
 ---
 ---
 
-@article{marfoglia2025towards,
-  title={Towards real-world clinical data standardization: A modular FHIR-driven transformation pipeline to enhance semantic interoperability in healthcare},
-  author={Marfoglia, Alberto and Nardini, Filippo and Arcobelli, Valerio Antonio and Moscato, Serena and Mellone, Sabato and Carbonaro, Antonella},
-  journal={Computers in Biology and Medicine},
-  volume={187},
-  pages={109745},
-  year={2025},
-  publisher={Elsevier},
-  selected = {true}
+@article{marfoglia_towards_2025,
+	title = {Towards real-world clinical data standardization: {A} modular {FHIR}-driven transformation pipeline to enhance semantic interoperability in healthcare},
+	volume = {187},
+	issn = {0010-4825},
+	shorttitle = {Towards real-world clinical data standardization},
+	url = {https://www.sciencedirect.com/science/article/pii/S0010482525000952},
+	doi = {10.1016/j.compbiomed.2025.109745},
+	abstract = {Background:
+Given the exponential increase in clinical data, which accounts for around 30\% of global data volume, effective information management has become crucial to ensuring robust interoperability. This trend is further expedited by implementing consumer-oriented Internet of Things platforms, contributing to the growth of the \$8.3 trillion healthcare industry. These advancements, combined with challenges such as heterogeneous data formats and a lack of incentives, necessitate the development of pragmatic infrastructures and tools that harness contemporary clinical standards like Fast Healthcare Interoperability Resources (FHIR).
+Objective:
+This study aims to present a modular conversion pipeline employing a templating strategy for translating clinical data into the FHIR model. Emphasis is placed on utilizing a standard mapping specification like FHIR Mapping Language. This ensures essential properties such as platform independence, portability, and code reusability.
+Methods:
+The pipeline was developed incrementally, dividing its core functionalities into five modules: Input, Refinement, Mapping, Validation, and Export. These were subsequently validated by converting a dataset from a prosthetic fitting and rehabilitation center to demonstrate the approach’s validity in a real-world data context.
+Results:
+A total of 1962 hospital stay records of 1006 unique patients were converted successfully to 15 distinct types of FHIR resources. The successful conversion states the pipeline’s effectiveness, additionally showcasing its capabilities for enhancing semantic interoperability and facilitating the reuse of real-world data.
+Conclusion:
+Our approach emerges as a modular data conversion framework that addresses the limitations of existing solutions, making significant contributions to the creation of standardized, interoperable, and high-quality clinical datasets that serve as a foundation for further work.},
+	urldate = {2026-05-20},
+	journal = {Computers in Biology and Medicine},
+	author = {Marfoglia, Alberto and Nardini, Filippo and Arcobelli, Valerio Antonio and Moscato, Serena and Mellone, Sabato and Carbonaro, Antonella},
+	month = mar,
+	year = {2025},
+	keywords = {Software architecture, Standardization, Data conversion, Health informatics, Semantic technology},
+	pages = {109745},
+    selected = {true}
 }
 
-@article{carbonaro2023connected,
-  title={CONNECTED: leveraging digital twins and personal knowledge graphs in healthcare digitalization},
-  author={Carbonaro, Antonella and Marfoglia, Alberto and Nardini, Filippo and Mellone, Sabato},
-  journal={Frontiers in Digital Health},
-  volume={5},
-  pages={1322428},
-  year={2023},
-  publisher={Frontiers Media SA}
+@article{marfoglia_challenges_2026,
+	title = {Challenges of health data standard adoption and usage: a systematic review},
+	volume = {178},
+	issn = {1532-0464},
+	shorttitle = {Challenges of health data standard adoption and usage},
+	url = {https://www.sciencedirect.com/science/article/pii/S1532046426000468},
+	doi = {10.1016/j.jbi.2026.105022},
+	abstract = {Objective
+To explore the adoption and practical implementation of the three major health data standards (i.e., FHIR, OMOP-CDM, and openEHR), to evaluate their maturity level in terms of how extensively they have been applied and integrated into everyday clinical and research practice.
+Methods
+We conducted a systematic review registered in PROSPERO (CRD42024623398) following PRISMA guidelines. Literature searches were performed through PubMed, Cochrane, Scopus, Web of Science, and IEEE Xplore from 2021 to 2024. After de-duplication and screening, 99 studies were included. Data was extracted and classified according to five health application domains and five use cases based on the intended purpose of the standard in the work. Studies were assessed for implementation scale, ETL tools, coverage of the standard (i.e., the number of mapped source variables), and whether standards were adapted or used as-is.
+Results
+Of the 99 included studies, 57\% used OMOP-CDM, 39\% FHIR, and 8\% openEHR. Most applications occurred in research settings (87\%) and focused on data reuse (47\%) or clinical decision support (23\%). OMOP-CDM was preferred for large-scale, longitudinal research, while FHIR was dominant in the public health domain and for real-time data exchange. Only 27\% of studies reported the coverage of the standard. FHIR implementations often require customization, complicating interoperability. OMOP-CDM offered strong analytical tooling but posed challenges for mapping and data loss. Few studies using openEHR reported limitations, with its uptake remaining limited.
+Conclusion
+Although FHIR, OMOP-CDM, and openEHR hold significant potential to enhance interoperability, their adoption remains fragmented. Each standard shows specific strengths: FHIR for exchange, OMOP-CDM for analytics, and openEHR for data persistence. A hybrid approach and clearer implementation practices are essential to support scalable, interoperable health data ecosystems.},
+	urldate = {2026-05-20},
+	journal = {Journal of Biomedical Informatics},
+	author = {Marfoglia, Alberto and Arcobelli, Valerio Antonio and Moscato, Serena and La Mattina, Antonino Amedeo and Mellone, Sabato and Carbonaro, Antonella},
+	month = jun,
+	year = {2026},
+	keywords = {Interoperability, Health informatics, Health data standard},
+	pages = {105022},
+    selected = {true}
 }
 
-@article{arcobelli2024fhir,
-  title={FHIR-standardized data collection on the clinical rehabilitation pathway of trans-femoral amputation patients},
-  author={Arcobelli, Valerio Antonio and Moscato, Serena and Palumbo, Pierpaolo and Marfoglia, Alberto and Nardini, Filippo and Randi, Pericle and Davalli, Angelo and Carbonaro, Antonella and Chiari, Lorenzo and Mellone, Sabato},
-  journal={Scientific Data},
-  volume={11},
-  number={1},
-  pages={806},
-  year={2024},
-  publisher={Nature Publishing Group UK London}
+@misc{marfoglia_clinical_2026,
+	title = {Clinical {Data} {Goes} {MEDS}? {Let}'s {OWL} make sense of it},
+	shorttitle = {Clinical {Data} {Goes} {MEDS}?},
+	url = {http://arxiv.org/abs/2601.04164},
+	doi = {10.48550/arXiv.2601.04164},
+	abstract = {The application of machine learning on healthcare data is often hindered by the lack of standardized and semantically explicit representation, leading to limited interoperability and reproducibility across datasets and experiments. The Medical Event Data Standard (MEDS) addresses these issues by introducing a minimal, event-centric data model designed for reproducible machine-learning workflows from health data. However, MEDS is defined as a data-format specification and does not natively provide integration with the Semantic Web ecosystem. In this article, we introduce MEDS-OWL, a lightweight OWL ontology that provides formal concepts and relations to represent MEDS datasets as RDF graphs. Additionally, we implemented meds2rdf, a Python conversion library that transforms MEDS events into RDF graphs, ensuring conformance with the ontology. We evaluate the proposed approach on two datasets: a synthetic clinical cohort describing care pathways for ruptured intracranial aneurysms, and a real-world subset of MIMIC-IV. To assess semantic consistency, we performed a SHACL validation against the resulting knowledge graphs. The first release of MEDS-OWL comprises 13 classes, 10 object properties, 20 data properties, and 24 OWL axioms. Combined with meds2rdf, it enables data transformation into FAIR-aligned datasets, provenance-aware publishing, and interoperability of event-based clinical data. By bridging MEDS with the Semantic Web, this work contributes a reusable semantic layer for event-based clinical data and establishes a robust foundation for subsequent graph-based analytics.},
+	urldate = {2026-05-20},
+	publisher = {arXiv},
+	author = {Marfoglia, Alberto and Jhee, Jong Ho and Coulet, Adrien},
+	month = feb,
+	year = {2026},
+	note = {arXiv:2601.04164 [cs.LG]},
+	keywords = {Computer Science - Artificial Intelligence, Computer Science - Machine Learning},
+    selected = {true}
 }
 
-@inproceedings{arcobelli2023motu,
-  title={MOTU on FHIR: A preliminary strategy to enable interoperability for retrospective dataset standardization},
-  author={Arcobelli, Valerio Antonio and Moscato, Serena and Marfoglia, Alberto and Nardini, Filippo and Randi, Pericle and Davalli, Angelo and Carbonaro, Antonella and Palumbo, Pierpaolo and Chiari, Lorenzo and Mellone, Sabato and others},
-  booktitle={2023 IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology},
-  pages={81--82},
-  year={2023},
-  organization={IEEE Computer Society}
+@article{carbonaro_editorial_2025,
+	title = {Editorial: {Implementing} digital twins in healthcare: pathways to person-centric solutions},
+	volume = {7},
+	issn = {2673-253X},
+	shorttitle = {Editorial},
+	url = {https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1741466/full},
+	doi = {10.3389/fdgth.2025.1741466},
+	abstract = {Digital Twins (DTs) are redefining the boundaries of healthcare innovation, offering dynamic, datadriven models that mirror patients, organs, or entire health systems. Originating from industrial engineering, DTs are now being reimagined as intelligent infrastructures capable of real-time simulation, prediction, and personalization. In healthcare, their implementation promises to enable predictive, preventive, personalized, and participatory (4P) medicine. However, translating these promises into practice entails complex sociotechnical challenges, spanning data governance, interoperability, ethical alignment, and user trust.},
+	language = {English},
+	urldate = {2026-05-20},
+	journal = {Frontiers in Digital Health},
+	publisher = {Frontiers},
+	author = {Carbonaro, Antonella and Marfoglia, Alberto and Quaranta, Luigi and Mellone, Sabato and Lanubile, Filippo},
+	month = dec,
+	year = {2025},
+	keywords = {personalized medicine, digital twin, 4P medicine, artificial intelligence in medicine, patient-centric care},
 }
 
-@inproceedings{marfoglia2024representation,
-  title={Representation of machine learning models to enhance simulation capabilities within digital twins in personalized healthcare},
-  author={Marfoglia, Alberto and Nardini, Filippo and Mellone, Sabato and Carbonaro, Antonella},
-  booktitle={2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
-  pages={100--105},
-  year={2024},
-  organization={IEEE}
+@incollection{robustelli_feasibility_2025,
+	title = {Feasibility of {MLOps}-based healthcare pipelines in ensuring the {Cybersecurity} {Framework}},
+	url = {https://cris.unibo.it/handle/11585/1031437},
+	abstract = {The recent advances in Artificial Intelligence (AI) are radically transforming the healthcare sector. Implementing 
+the related solutions presents significant challenges, ranging from managing data quality and heterogeneity to 
+compliance with stringent regulations (e.g., GDPR and HIPAA). In this context, MLOps emerges as a crucial 
+solution to address these issues through a set of practices and tools. As a result, MLOps-based pipelines play a 
+pivotal role in the effective management of Machine Learning (ML) models, which is vital to support diagnostic 
+and prognostic activities. On the other hand, the development of healthcare systems should also consider several 
+cybersecurity aspects required by the same regulations. To this end, the Cybersecurity Framework (CSF) 2.0, 
+developed by the National Institute of Standards and Technology (NIST), describes updated guidelines to mitigate 
+cybersecurity risks. Therefore, adopting MLOps with the support of the CSF represents an essential step for 
+enabling the transition of ML models to enabled devices and improving the security of healthcare systems. For 
+this reason, in this work, we present the high-level architecture of an MLOps pipeline employed by the DARE 
+(DigitAl lifelong pRevEntion) foundation. Moreover, we also analyze its feasibility in satisfying CSF requirements, 
+with particular emphasis on those related to data security, detection, and recovery.},
+	language = {eng},
+	urldate = {2026-05-20},
+	publisher = {DEU},
+	author = {Robustelli, Antonio and Marfoglia, Alberto and D’Errico, Christian and Mellone, Sabato and Carbonaro, Antonella},
+	year = {2025},
+	note = {Accepted: 2025-12-09T07:59:09Z},
 }
 
-@article{marfoglia2026knowledge,
-  title={A knowledge graph-driven framework for deploying AI-powered patient digital twins},
-  author={Marfoglia, Alberto and D’Errico, Christian and Mellone, Sabato and Carbonaro, Antonella},
-  journal={Future Generation Computer Systems},
-  pages={108380},
-  year={2026},
-  publisher={Elsevier},
-  selected = {true}
+@incollection{marfoglia_llmops-driven_2025,
+	title = {A {LLMOps}-{Driven} {Framework} for {Clinical} {Data} {Harmonization}},
+	url = {https://cris.unibo.it/handle/11585/1031436},
+	abstract = {open},
+	language = {eng},
+	urldate = {2026-05-20},
+	publisher = {DEU},
+	author = {Marfoglia, Alberto and Robustelli, Antonio and D’Errico, Christian and Mellone, Sabato and Carbonaro, Antonella},
+	year = {2025},
+	note = {Accepted: 2025-12-09T10:19:48Z},
+    selected = {true}
 }
 
-@inproceedings{marfoglia2025connected,
-  title={CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare},
-  author={Marfoglia, Alberto and D'Errico, Christian and Nardini, Filippo and Mellone, Sabato and Carbonaro, Antonella},
-  booktitle={2025 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
-  pages={116--121},
-  year={2025},
-  organization={IEEE Computer Society}
+@inproceedings{marfoglia_connected_2025,
+	title = {{CONNECTED}: {A} {Knowledge} {Graph}-{Driven} {Platform} for {Clinical} {Data} {Harmonization} and {Personalized} {Digital} {Twin}-{Based} {Healthcare}},
+	isbn = {979-8-3315-3553-7},
+	shorttitle = {{CONNECTED}},
+	url = {https://www.computer.org/csdl/proceedings-article/percom-workshops/2025/355300a116/27FQPAYWoqA},
+	doi = {10.1109/PerComWorkshops65533.2025.00051},
+	abstract = {The digital healthcare innovation surge requires frameworks integrating heterogeneous clinical data to support real-time, personalized care. However, existing solutions often face interoperability, scalability, and adaptability limitations, restricting their utility in predictive, precision medicine. This paper introduces CONNECTED (COmpreheNsive and staNdardized hEalth-Care plaTforms to collEct and harmonize clinical Data), a multi-layer, microservices-based platform designed to facilitate Digital Twins (DTs) for patient monitoring and personalized treatment. The solution’s core innovation lies in using knowledge graphs, which harmonize diverse clinical data sources and link patient information to AI models through automated, manifest-driven interfaces. This approach enables adaptive, patient-specific simulations by integrating real-time and historical data. We validate CONNECTED by implementing a stroke risk classifier, demonstrating the platform’s potential to provide patient-specific predictions supporting early intervention strategies. CONNECTED thus offers a scalable, flexible foundation for precision medicine, equipping clinicians with actionable insights across varied clinical applications.},
+	language = {English},
+	urldate = {2026-05-20},
+	publisher = {IEEE Computer Society},
+	author = {Marfoglia, Alberto and D’Errico, Christian and Nardini, Filippo and Mellone, Sabato and Carbonaro, Antonella},
+	month = mar,
+	year = {2025},
+	pages = {116--121},
 }
 
-@article{marfoglia2026challenges,
-  title={Challenges of health data standard adoption and usage: a systematic review},
-  author={Marfoglia, Alberto and Arcobelli, Valerio Antonio and Moscato, Serena and La Mattina, Antonino Amedeo and Mellone, Sabato and Carbonaro, Antonella},
-  journal={Journal of Biomedical Informatics},
-  pages={105022},
-  year={2026},
-  publisher={Elsevier},
-  selected = {true}
+@article{carbonaro_connected_2023,
+	title = {{CONNECTED}: leveraging digital twins and personal knowledge graphs in healthcare digitalization},
+	volume = {5},
+	issn = {2673-253X},
+	shorttitle = {{CONNECTED}},
+	url = {https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1322428/full},
+	doi = {10.3389/fdgth.2023.1322428},
+	abstract = {Healthcare has always been a strategic domain in which innovative technologies can be applied to increase the effectiveness of services and patient care quality. Recent advancements have been made in the adoption of Digital Twins (DTs) and Personal Knowledge Graphs (PKGs) in this field. Despite this, their introduction has been hindered by the complex nature of the context itself which leads to many challenges both technical and organizational. In this article, we reviewed the literature about these technologies and their integrations, identifying the most critical requirements for clinical platforms. These latter have been used to design CONNECTED (COmpreheNsive and staNdardized hEalth-Care plaTforms to collEct and harmonize clinical Data), a conceptual framework aimed at defining guidelines to overcome the crucial issues related to the development of healthcare applications. It is structured in a multi-layer shape, in which heterogeneous data sources are first integrated, then standardized, and finally used to realize general-purpose DTs of patients backed by PKGs and accessible through dedicated APIs. These DTs will be the foundation on which smart applications can be built.},
+	language = {English},
+	urldate = {2026-05-20},
+	journal = {Frontiers in Digital Health},
+	publisher = {Frontiers},
+	author = {Carbonaro, Antonella and Marfoglia, Alberto and Nardini, Filippo and Mellone, Sabato},
+	month = dec,
+	year = {2023},
+	keywords = {healthcare, Architectural framework, data integration, Digital Twins, personal knowledge graphs},
 }
 
-@article{marfoglia2026clinical,
-  title={Clinical Data Goes MEDS? Let's OWL make sense of it},
-  author={Marfoglia, Alberto and Jhee, Jong Ho and Coulet, Adrien},
-  journal={arXiv preprint arXiv:2601.04164},
-  year={2026},
-  selected = {true}
+@article{arcobelli_fhir-standardized_2024,
+	title = {{FHIR}-standardized data collection on the clinical rehabilitation pathway of trans-femoral amputation patients},
+	volume = {11},
+	copyright = {2024 The Author(s)},
+	issn = {2052-4463},
+	url = {https://www.nature.com/articles/s41597-024-03593-6},
+	doi = {10.1038/s41597-024-03593-6},
+	abstract = {Lower limb amputation is a medical intervention which causes motor disability and may compromise quality of life. Several factors determine patients’ health outcomes, including an appropriate prosthetic provision and an effective rehabilitation program, necessitating a thorough quantitative observation through different data sources. In this context, the role of interoperability becomes essential, facilitating the reuse of real-world data through the provision of structured and easily accessible databases. This study introduces a comprehensive 10-year dataset encompassing clinical features, mobility measurements, and prosthetic knees of 1006 trans-femoral amputees during 1962 hospital stays for rehabilitation. The dataset is made available in both comma-separated values (CSV) format and HL7 Fast Healthcare Interoperability Resources (FHIR)-based representation, ensuring broad utility and compatibility for researchers and healthcare practitioners. This initiative contributes to advancing community understanding of post-amputation rehabilitation and underscores the significance of interoperability in promoting seamless data sharing for meaningful insights into healthcare outcomes.},
+	language = {en},
+	number = {1},
+	urldate = {2026-05-20},
+	journal = {Scientific Data},
+	publisher = {Nature Publishing Group},
+	author = {Arcobelli, Valerio Antonio and Moscato, Serena and Palumbo, Pierpaolo and Marfoglia, Alberto and Nardini, Filippo and Randi, Pericle and Davalli, Angelo and Carbonaro, Antonella and Chiari, Lorenzo and Mellone, Sabato},
+	month = jul,
+	year = {2024},
+	keywords = {Biomedical engineering, Orthopaedics, Outcomes research, Translational research},
+	pages = {806},
 }
 
-@incollection{moscato2026toward,
-  title={Toward Interoperable Variable Definitions: A FHIR-based Standardization Strategy for the METASTRA Project},
-  author={Moscato, Serena and Marfoglia, Alberto and Arcobelli, Valerio Antonio and Griffoni, Cristiana and Barbanti-Br{\`o}dano, Giovanni and Gasbarrini, Alessandro and Carbonaro, Antonella and Mellone, Sabato and others},
-  booktitle={Studies in Health Technology and Informatics},
-  pages={1--5},
-  year={2026}
+@inproceedings{arcobelli_motu_2023,
+	title = {{MOTU} on {FHIR}: {A} preliminary strategy to enable interoperability for retrospective dataset standardization},
+	shorttitle = {{MOTU} on {FHIR}},
+	url = {https://ui.adsabs.harvard.edu/abs/2023embs.conf...40A},
+	doi = {10.1109/IEEECONF58974.2023.10404816},
+	abstract = {We present the application of HL7-FHIR to standardize a retrospective heterogeneous dataset, enhancing human/machine readability and interoperability.Clinical Relevance: The adopted strategy enables secondary use of clinical data in scientific medical research.},
+	urldate = {2026-05-20},
+	publisher = {IEEE},
+	author = {Arcobelli, V. A. and Moscato, S. and Marfoglia, A. and Nardini, F. and Randi, P. and Davalli, A. and Carbonaro, A. and Palumbo, P. and Chiari, L. and Mellone, S.},
+	month = dec,
+	year = {2023},
+	note = {ADS Bibcode: 2023embs.conf...40A},
+	keywords = {Interoperability, Medical services, Biology, Data science, Standardization},
+	pages = {40},
 }
 
-@misc{carbonaro2025implementing,
-  title={Implementing digital twins in healthcare: pathways to person-centric solutions},
-  author={Carbonaro, Antonella and Marfoglia, Alberto and Quaranta, Luigi and Mellone, Sabato and Lanubile, Filippo},
-  journal={Frontiers in Digital Health},
-  volume={7},
-  pages={1741466},
-  year={2025},
-  publisher={Frontiers Media SA}
+@inproceedings{marfoglia_representation_2024,
+	title = {Representation of {Machine} {Learning} {Models} to {Enhance} {Simulation} {Capabilities} {Within} {Digital} {Twins} in {Personalized} {Healthcare}},
+	issn = {2766-8576},
+	url = {https://ieeexplore.ieee.org/abstract/document/10502444},
+	doi = {10.1109/PerComWorkshops59983.2024.10502444},
+	abstract = {Healthcare has always been a strategic area where innovative technologies can be applied to increase the effectiveness of services and the quality of patient care. Recent progress has been made in the adoption of machine-learning models within digital twins and knowledge graphs. Nevertheless, their deployment needs to address the complex nature of the framework itself, which entails numerous technical, organizational, legal, and ethical challenges. In this paper, we propose an evolution of the CONNECTED conceptual framework, a multi-layered system in which heterogeneous data sources are integrated, standardized, and used to realize digital twins supported by knowledge graphs accessible through dedicated APIs. The extension involves the integration of machine learning models into digital twins, thereby enabling simulation capabilities. The inclusion of a formal and machine-readable self-description with these models serves as a foundation for semantic reasoning. This pivotal feature empowers our architecture with the capability for automatic indexing, aggregation, and querying of the models.},
+	urldate = {2026-05-20},
+	booktitle = {2024 {IEEE} {International} {Conference} on {Pervasive} {Computing} and {Communications} {Workshops} and other {Affiliated} {Events} ({PerCom} {Workshops})},
+	author = {Marfoglia, Alberto and Nardini, Filippo and Mellone, Sabato and Carbonaro, Antonella},
+	month = mar,
+	year = {2024},
+	note = {ISSN: 2766-8576},
+	keywords = {Computational modeling, Medical services, Healthcare, Machine learning, Digital Twins, Semantics, Conferences, Machine Learning Models, Personal Knowledge Graphs, Pervasive computing, Soft sensors},
+	pages = {100--105},
 }
 
-@inproceedings{robustelli2025feasibility,
-  title={Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework},
-  author={Robustelli, Antonio and Marfoglia, Alberto and D’Errico, Christian and Mellone, Sabato and Carbonaro, Antonella and others},
-  booktitle={CEUR WORKSHOP PROCEEDINGS},
-  pages={1--12},
-  year={2025},
-  organization={Ceur Workshop proceedings}
-}
-
-@inproceedings{marfoglia2025llmops,
-  title={A LLMOps-Driven Framework for Clinical Data Harmonization},
-  author={Marfoglia, Alberto and Robustelli, Antonio and D’Errico, Christian and Mellone, Sabato and Carbonaro, Antonella and others},
-  booktitle={CEUR WORKSHOP PROCEEDINGS},
-  pages={25--36},
-  year={2025},
-  organization={Ceur Workshop proceedings},
-  selected = {true}
+@article{marfoglia_knowledge_2026,
+	title = {A knowledge graph-driven framework for deploying {AI}-powered patient digital twins},
+	volume = {180},
+	issn = {0167-739X},
+	url = {https://www.sciencedirect.com/science/article/pii/S0167739X26000142},
+	doi = {10.1016/j.future.2026.108380},
+	abstract = {Background: The healthcare sector faces diverse challenges, including poor interoperability and a lack of personalized approaches, which limit patient outcomes. Ineffective data exchange and one-size-fits-all treatments fail to meet individual needs. Emerging technologies like digital twins (DTs), the semantic web, and AI show promise in tackling these obstacles. For this reason, we introduced CONNECTED, a conceptual multi-level framework that combines these techniques to deploy general-purpose patient DTs. Objective: This study assesses CONNECTED’s comprehensiveness, applicability, and utility for developing intelligent, personalized healthcare applications. Specifically, we deliver a preliminary version of the framework to predict future patient states and demonstrate its automation benefits in deploying semantically enriched, AI-powered patient DTs. Methods: We enhanced the CONNECTED architecture by providing a formal definition of DT and modularizing its core functionalities into four microservices (Properties, State, Capabilities, and Manifest). The Manifest service facilitates AI model integration through the Model Interface Manifest Ontology (MIMO), enabling automatic data-to-model binding via a reasoner. Using the HeartBeatKG quality assessment tool, we validated MIMO and tested the internal logic by integrating a well-established stroke-risk model. Results: Our implementation comprehends: (1) deploying a FHIR-compliant, patient-centric API for clinical history access, real-time monitoring, and predictive simulation; (2) publishing MIMO; (3) establishing the Manifest protocol for seamless, general-purpose AI model integration tailored to individual patient profiles; and (4) a proof-of-concept benchmarking application comparing multiple stroke risk classifiers. Conclusion: CONNECTED establishes a flexible, scalable foundation for interoperable semantic patient DTs. Automation reduces technical overhead and enables users to focus on delivering personalized, insight-driven care.},
+	urldate = {2026-05-20},
+	journal = {Future Generation Computer Systems},
+	author = {Marfoglia, Alberto and D’Errico, Christian and Mellone, Sabato and Carbonaro, Antonella},
+	month = jul,
+	year = {2026},
+	keywords = {Digital twins, Healthcare, Semantic web, Knowledge graphs, Pervasive computing, Machine learning models, Personalized medicine, Predictive analytics},
+	pages = {108380},
+    selected = {true}
 }

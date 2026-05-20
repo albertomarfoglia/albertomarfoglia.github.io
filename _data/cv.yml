@@ -71,7 +71,7 @@ cv:
         end_date: 2025
         highlights:
           - Engineered secure multi-user research infrastructure for AlmaHealthDB
-          - "AlmaHealthDB, EU-connected healthcare data infrastructure (IRCCS network": Rizzoli, S. Orsola-Malpighi, Institute of Neurological Sciences)
+          - "AlmaHealthDB, connected healthcare data infrastructure (IRCCS network: Rizzoli, S. Orsola-Malpighi, Institute of Neurological Sciences)"
           - Implemented GPU optimization, role-based access control, and secure
             data exchange
           - Supported interoperability with regional infrastructure (Lepida
@@ -124,7 +124,7 @@ cv:
           - Patient-centric APIs for clinical data integration and prediction
           - Applied to stroke-risk and clinical outcome prediction benchmarks
           - Publications in PerCom (2024–2025), Frontiers in Digital Health, FGCS
-          - Award: Best Workshop Paper (DIGITA 2025)
+          - Best Workshop Paper (DIGITA 2025)
       - name: AlmaHealthDB
         start_date: 2024
         end_date: present
@@ -145,138 +145,177 @@ cv:
             studies
           - SNOMED CT-based semantic mapping and validation
     Publications:
-      - title: Challenges of health data standard adoption and usage - a systematic
-          review
-        journal: Journal of Biomedical Informatics
-        year: 2026
-        doi: https://doi.org/10.1016/j.jbi.2026.105022
-      - title: A knowledge graph-driven framework for deploying AI-powered patient
-          digital twins
-        journal: Future Generation Computer Systems
-        year: 2026
-        doi: https://doi.org/10.1016/j.future.2026.108380
-      - title: Towards real-world clinical data standardization using FHIR pipelines
-        journal: Computers in Biology and Medicine
-        year: 2025
-        doi: https://doi.org/10.1016/j.compbiomed.2025.109745
-      - title: CONNECTED - Knowledge Graph-driven Digital Twin platform
-        journal: Frontiers in Digital Health
-        year: 2023
-        doi: https://doi.org/10.3389/fdgth.2023.1322428
-      - title: FHIR-standardized clinical dataset for rehabilitation pathways
-        journal: Scientific Data (Nature)
-        year: 2024
-        doi: https://doi.org/10.1038/s41597-024-03593-6
-      - title: MLOps and LLM-based clinical data harmonization
-        journal: CEUR / IEEE Workshops
-        year: 2025
-        highlights:
-          - PerCom Workshops, MLOps25, SWAT4HCLS
-      - title: Clinical Data Goes MEDS? Let’s OWL make sense of it
+      - title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
         authors:
-          - Marfoglia A.
-          - Jhee J. H.
-          - Coulet A.
-        venue: SWAT4HCLS Conference (accepted)
-        year: 2026
-        doi: https://doi.org/10.48550/arXiv.2601.04164
-        note: arXiv preprint
+          - Alberto Marfoglia
+          - Christian D’Errico
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: Future Generation Computer Systems
+        releaseDate: 2026-07
+        url: https://www.sciencedirect.com/science/article/pii/S0167739X26000142
+        summary: Presents an interoperable framework for deploying AI-powered patient digital twins using semantic technologies, FHIR APIs, and automated model integration through knowledge graphs.
+
+      - title: "Challenges of health data standard adoption and usage: a systematic review"
+        authors:
+          - Alberto Marfoglia
+          - Valerio Antonio Arcobelli
+          - Serena Moscato
+          - Antonino Amedeo La Mattina
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: Journal of Biomedical Informatics
+        releaseDate: 2026-06
+        url: https://www.sciencedirect.com/science/article/pii/S1532046426000468
+        summary: Systematic review analyzing adoption, implementation challenges, and practical usage of FHIR, OMOP-CDM, and openEHR across healthcare and research domains.
+
+      - title: Clinical Data Goes MEDS? Let's OWL make sense of it
+        authors:
+          - Alberto Marfoglia
+          - Jong Ho Jhee
+          - Adrien Coulet
+        publisher: arXiv
+        releaseDate: 2026-02
+        url: http://arxiv.org/abs/2601.04164
+        summary: Proposes MEDS-OWL, an ontology and RDF conversion framework enabling semantic-web interoperability and FAIR representation of MEDS clinical datasets.
+
+      - title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
+        authors:
+          - Antonio Robustelli
+          - Alberto Marfoglia
+          - Christian D’Errico
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: DEU
+        releaseDate: 2025
+        url: https://cris.unibo.it/handle/11585/1031437
+        summary: Explores integration of MLOps practices with the NIST Cybersecurity Framework for secure AI-driven healthcare systems.
+
       - title: A LLMOps-Driven Framework for Clinical Data Harmonization
         authors:
-          - Marfoglia A.
-          - Robustelli A.
-          - D’Errico C.
-          - Mellone S.
-          - Carbonaro A.
-        venue: Machine Learning Operations (MLOps25), CEUR Workshop Proceedings
-        year: 2025
-        pages: 25–36
-        url: https://ceur-ws.org/Vol-4109/paper3.pdf
-      - title: Feasibility of MLOps-based healthcare pipelines in ensuring the
-          Cybersecurity Framework
+          - Alberto Marfoglia
+          - Antonio Robustelli
+          - Christian D’Errico
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: DEU
+        releaseDate: 2025
+        url: https://cris.unibo.it/handle/11585/1031436
+        summary: Presents an LLMOps-based framework for automating and improving clinical data harmonization workflows.
+
+      - title: "CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare"
         authors:
-          - Robustelli A.
-          - Marfoglia A.
-          - D’Errico C.
-          - Mellone S.
-          - Carbonaro A.
-        venue: Machine Learning Operations (MLOps25), CEUR Workshop Proceedings
-        year: 2025
-        pages: 1–12
-        url: https://ceur-ws.org/Vol-4109/paper1.pdf
-      - title: CONNECTED - A Knowledge Graph-Driven Platform for Clinical Data
-          Harmonization and Personalized Digital Twin-Based Healthcare
+          - Alberto Marfoglia
+          - Christian D’Errico
+          - Filippo Nardini
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: IEEE Computer Society
+        releaseDate: 2025-03
+        url: https://www.computer.org/csdl/proceedings-article/percom-workshops/2025/355300a116/27FQPAYWoqA
+        summary: Introduces CONNECTED, a platform using knowledge graphs and digital twins for personalized medicine and predictive analytics.
+
+      - title: "Towards real-world clinical data standardization: A modular FHIR-driven transformation pipeline to enhance semantic interoperability in healthcare"
         authors:
-          - Marfoglia A.
-          - D’Errico C.
-          - Nardini F.
-          - Mellone S.
-          - Carbonaro A.
-        venue: IEEE PerCom Workshops 2025
-        year: 2025
-        doi: https://doi.org/10.1109/PerComWorkshops65533.2025.00051
-      - title: Representation of Machine Learning Models to Enhance Simulation
-          Capabilities Within Digital Twins in Personalized Healthcare
+          - Alberto Marfoglia
+          - Filippo Nardini
+          - Valerio Antonio Arcobelli
+          - Serena Moscato
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: Computers in Biology and Medicine
+        releaseDate: 2025-03
+        url: https://www.sciencedirect.com/science/article/pii/S0010482525000952
+        summary: Proposes a modular FHIR-based pipeline for transforming clinical data into interoperable healthcare resources.
+
+      - title: "Editorial: Implementing digital twins in healthcare: pathways to person-centric solutions"
         authors:
-          - Marfoglia A.
-          - Nardini F.
-          - Mellone S.
-          - Carbonaro A.
-        venue: IEEE PerCom Workshops 2024
-        year: 2024
-        doi: https://doi.org/10.1109/PerComWorkshops59983.2024.10502444
-      - title: MOTU on FHIR - A preliminary strategy to enable interoperability for
-          retrospective dataset standardization
+          - Antonella Carbonaro
+          - Alberto Marfoglia
+          - Luigi Quaranta
+          - Sabato Mellone
+          - Filippo Lanubile
+        publisher: Frontiers in Digital Health
+        releaseDate: 2025-12
+        url: https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1741466/full
+        summary: Discusses challenges and opportunities of digital twins in healthcare, focusing on interoperability and patient-centric care.
+
+      - title: Representation of Machine Learning Models to Enhance Simulation Capabilities Within Digital Twins in Personalized Healthcare
         authors:
-          - Arcobelli V. A.
-          - Moscato S.
-          - Marfoglia A.
-          - Nardini F.
-          - Randi P.
-          - Davalli A.
-          - Carbonaro A.
-          - Palumbo P.
-          - Chiari L.
-          - Mellone S.
-        venue: IEEE EMBS Conference on Data Science and Engineering in Healthcare,
-          Medicine and Biology
-        year: 2023
-        doi: https://doi.org/10.1109/IEEECONF58974.2023.10404816
+          - Alberto Marfoglia
+          - Filippo Nardini
+          - Sabato Mellone
+          - Antonella Carbonaro
+        publisher: IEEE PerCom Workshops
+        releaseDate: 2024-03
+        url: https://ieeexplore.ieee.org/abstract/document/10502444
+        summary: Extends CONNECTED by integrating machine learning models into digital twins for simulation and prediction.
+
+      - title: FHIR-standardized data collection on the clinical rehabilitation pathway of trans-femoral amputation patients
+        authors:
+          - Valerio Antonio Arcobelli
+          - Serena Moscato
+          - Pierpaolo Palumbo
+          - Alberto Marfoglia
+          - Filippo Nardini
+          - Pericle Randi
+          - Angelo Davalli
+          - Antonella Carbonaro
+          - Lorenzo Chiari
+          - Sabato Mellone
+        publisher: Scientific Data
+        releaseDate: 2024-07
+        url: https://www.nature.com/articles/s41597-024-03593-6
+        summary: Provides a 10-year FHIR-standardized clinical dataset for rehabilitation research.
+
+      - title: "CONNECTED: leveraging digital twins and personal knowledge graphs in healthcare digitalization"
+        authors:
+          - Antonella Carbonaro
+          - Alberto Marfoglia
+          - Filippo Nardini
+          - Sabato Mellone
+        publisher: Frontiers in Digital Health
+        releaseDate: 2023-12
+        url: https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1322428/full
+        summary: Introduces CONNECTED framework combining digital twins and knowledge graphs for healthcare systems.
+
+      - title: "MOTU on FHIR: A preliminary strategy to enable interoperability for retrospective dataset standardization"
+        authors:
+          - Valerio Antonio Arcobelli
+          - Serena Moscato
+          - Alberto Marfoglia
+          - Filippo Nardini
+          - Pericle Randi
+          - Angelo Davalli
+          - Antonella Carbonaro
+          - Pierpaolo Palumbo
+          - Lorenzo Chiari
+          - Sabato Mellone
+        publisher: IEEE
+        releaseDate: 2023-12
+        url: https://ui.adsabs.harvard.edu/abs/2023embs.conf...40A
+        summary: Proposes a FHIR-based method for standardizing retrospective clinical datasets for interoperability.
+
     Skills:
-      AI & Machine Learning:
-        - Graph Neural Networks (GCN)
-        - Knowledge Graph Embeddings
-        - Explainable AI (SHAP, attention models)
-        - NLP & LLMs (HuggingFace, BioBERT, BioMistral)
-        - RAG systems
-      Healthcare Data:
-        - HL7 FHIR
-        - OMOP
-        - openEHR
-        - SNOMED CT, LOINC
-        - Clinical data harmonization
-      Semantic Technologies:
-        - RDF / OWL
-        - SPARQL
-        - Ontology engineering (Protégé)
-        - Apache Jena
-      Software & Infrastructure:
-        - Python, Java, Scala, Kotlin, JavaScript
-        - Docker, Git, CI/CD (GitLab)
-        - AWS cloud
-        - Linux systems, HPC
-        - Microservices, hexagonal architecture
+      - name: AI & Machine Learning
+        icon: fa-solid fa-hexagon-nodes
+        keywords: "Graph Representation Learning, Knowledge Graphs, Explainable AI, NLP & LLMs"
+
+      - name: Healthcare Data
+        icon: fa-solid fa-heart-pulse
+        keywords: "HL7 FHIR, OMOP, openEHR, SNOMED CT, LOINC, Clinical Data Harmonization"
+
+      - name: Semantic Technologies
+        icon: fa-solid fa-diagram-project
+        keywords: "RDF, OWL, SPARQL, Ontology Engineering, Protégé, Apache Jena"
+
+      - name: Software & Infrastructure
+        icon: fa-solid fa-server
+        keywords: "Python, Java, Scala, Kotlin, JavaScript, Docker, Git, CI/CD, GitLab, AWS, Linux, HPC, Microservices, Hexagonal Architecture"
     Languages:
       - name: Italian
-        level: Native
+        summary: Native
       - name: English
-        level: C1
+        summary: C1
       - name: French
-        level: A2
-    Collaborations:
-      - CHU de Nantes (France) – NEUROVASC project
-      - Rizzoli Orthopaedic Institute (Bologna)
-      - S. Orsola-Malpighi Hospital (Bologna)
-      - Institute of Neurological Sciences (Bologna)
-      - METASTRA EU-linked clinical study
-      - Cancer Prevention at Work (CPW) consortium
+        summary: A2

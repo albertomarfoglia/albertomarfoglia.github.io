@@ -1,13 +1,13 @@
 "carbonaro":
-  - firstname: ["A.", "Antonella", "A. Carbonaro"]
+  - firstname: ["A.", "Antonella", "A. Carbonaro", "Antonella Carbonaro"]
     url: https://www.semanticscholar.org/author/2273227644
 
 "derrico":
-  - firstname: ["Christian", "Christian D'Errico"]
+  - firstname: ["Christian", "Christian D’Errico"]
     url: https://www.semanticscholar.org/author/2367615156
 
 "mellone":
-  - firstname: ["S.", "Sabato", "S. Mellone"]
+  - firstname: ["S.", "Sabato", "S. Mellone", "Sabato Mellone"]
     url: https://www.semanticscholar.org/author/2281977356
 
 "nardini":
@@ -15,11 +15,11 @@
     url: https://www.semanticscholar.org/author/2273231678
 
 "arcobelli":
-  - firstname: ["V.", "Valerio", "V. Arcobelli"]
+  - firstname: ["V.", "Valerio", "V. Arcobelli", "Valerio Antonio Arcobelli"]
     url: https://www.semanticscholar.org/author/2215148925
 
 "moscato":
-  - firstname: ["S.", "Serena", "S. Moscato"]
+  - firstname: ["S.", "Serena", "S. Moscato", "Serena Moscato"]
     url: https://www.semanticscholar.org/author/2127920733
 
 "la_mattina":

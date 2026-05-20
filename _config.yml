@@ -2,13 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Website # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Alberto
+middle_name: 
 last_name: Marfoglia
+email: a.marfoglia@hotmail.it
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to contact me via email or follow me on social media. Reach out to me with collaboration opportunities, or digital health projects. 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Alberto Marofglia website.
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -50,8 +52,8 @@ external_services:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
+footer_fixed: false
+search_enabled: false 
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -157,7 +159,7 @@ collections:
       layout: post
     output: false
   projects:
-    output: false
+    output: true
   teachings:
     output: false
 
