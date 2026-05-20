@@ -4,7 +4,7 @@ cv:
   label: AI & Healthcare Data Engineer | PhD Candidate
   email: a.marfoglia@hotmail.it
   location: Bologna, Italy
-  image: prof_pic.jpg
+  image: #"assets/img/prof_pic.jpg"
   summary: >
     PhD candidate in Computer Science and Engineering specializing in
     trustworthy AI, healthcare data engineering, and semantic interoperability.
