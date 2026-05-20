@@ -1,34 +1,63 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI & Healthcare Data Engineer | Trustworthy AI, Semantic Interoperability, Digital Health
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:a.marfoglia@hotmail.it">a.marfoglia@hotmail.it</a></p>
+    <p>Italy / France</p>
+    <p>Available for consulting & collaborations</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Computer Science and Engineering at the University of Bologna, specializing in AI-driven healthcare data systems, semantic interoperability, and trustworthy machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work combines machine learning, knowledge graphs, semantic web technologies, and healthcare data engineering to design interoperable, scalable, and explainable solutions for clinical and research environments. I work extensively with HL7 FHIR, RDF/OWL ontologies, graph representation learning, and AI-based predictive modelling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond academia, I collaborate with hospitals, biomedical research units, and interdisciplinary teams on real-world healthcare infrastructures and applied AI solutions. My experience spans clinical data harmonization, semantic interoperability, AI-assisted analytics, distributed systems, and secure data management in regulated environments.
+
+Currently, I contribute to the activities of the HEKA research unit (INRIA–INSERM–Université Paris Cité), collaborating with Nantes University Hospital (CHU de Nantes) within the NEUROVASC project on graph-based outcome prediction and explainable AI for healthcare applications.
+
+I also contributed to AlmaHealthDB, a shared healthcare research infrastructure involving the University of Bologna and the IRCCS hospital network of Bologna, including:
+- Rizzoli Orthopaedic Institute
+- Institute of Neurological Sciences of Bologna
+- S. Orsola-Malpighi Polyclinic
+
+The platform supports secure, interoperable, and scalable management of healthcare research data and is connected to European collaborative initiatives such as METASTRA and Cancer Prevention at Work (CPW).
+
+My technical and consulting interests include:
+- Healthcare interoperability and data standards (HL7 FHIR, OMOP, openEHR)
+- Clinical data harmonization and ETL pipelines
+- AI for clinical data and predictive analytics
+- Knowledge graphs and semantic technologies (e.g. LOINC, ICD, SNOMED, etc.)
+- Explainable and trustworthy AI
+- Digital Twin architectures for healthcare
+- Retrieval-Augmented Generation (RAG) and LLM-assisted workflows
+
+I have authored publications in international journals and conferences including:
+- IEEE PerCom Workshops
+- Frontiers in Digital Health
+- Scientific Data (Nature Portfolio)
+- Computers in Biology and Medicine
+- Future Generation Computer Systems
+
+I am interested in collaborations with healthcare organizations, research institutions, and companies working on AI, digital health, biomedical data engineering, and interoperable healthcare platforms.
+
+<blockquote>
+  “Data becomes valuable when it is understandable, interoperable, and actionable.”
+</blockquote>

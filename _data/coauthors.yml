@@ -1,34 +1,55 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"carbonaro":
+  - firstname: ["A.", "Antonella", "A. Carbonaro"]
+    url: https://www.semanticscholar.org/author/2273227644
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"derrico":
+  - firstname: ["Christian", "Christian D'Errico"]
+    url: https://www.semanticscholar.org/author/2367615156
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"mellone":
+  - firstname: ["S.", "Sabato", "S. Mellone"]
+    url: https://www.semanticscholar.org/author/2281977356
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"nardini":
+  - firstname: ["F.", "Filippo", "F. Nardini"]
+    url: https://www.semanticscholar.org/author/2273231678
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"arcobelli":
+  - firstname: ["V.", "Valerio", "V. Arcobelli"]
+    url: https://www.semanticscholar.org/author/2215148925
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"moscato":
+  - firstname: ["S.", "Serena", "S. Moscato"]
+    url: https://www.semanticscholar.org/author/2127920733
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"la_mattina":
+  - firstname: ["A. A.", "Antonio A.", "A. A. La Mattina"]
+    url: https://www.semanticscholar.org/author/41033357
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"coulet":
+  - firstname: ["Adrien", "A. Coulet"]
+    url: https://www.semanticscholar.org/author/2251857030
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"jhee":
+  - firstname: ["Jong Ho", "Jong Ho Jhee"]
+    url: https://www.semanticscholar.org/author/51065076
+
+"quaranta":
+  - firstname: ["L.", "Luigi", "L. Quaranta"]
+    url: https://www.semanticscholar.org/author/80099077
+
+"lanubile":
+  - firstname: ["Filippo Nardini"]
+    url: https://www.semanticscholar.org/author/2331398301
+
+"palumbo":
+  - firstname: ["P.", "Pierpaolo", "P. Palumbo"]
+    url: https://www.semanticscholar.org/author/40438022
+
+"chiari":
+  - firstname: ["L.", "Lorenzo", "Lorenzo Chiari"]
+    url: https://www.semanticscholar.org/author/2254943196
+
+"robustelli":
+  - firstname: ["Antonio", "A. Robustelli"]
+    url: https://www.semanticscholar.org/author/2399895734

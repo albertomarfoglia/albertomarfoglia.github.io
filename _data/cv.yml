@@ -1,189 +1,300 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Alberto Marfoglia
+  label: AI & Healthcare Data Engineer | PhD Candidate
+  email: a.marfoglia@hotmail.it
+  location: Bologna, Italy
+  image: prof_pic.jpg
+
+  summary: >
+    PhD candidate in Computer Science and Engineering specializing in trustworthy AI,
+    healthcare data engineering, and semantic interoperability. Experienced in designing
+    and deploying real-world clinical data infrastructures, combining machine learning,
+    knowledge graphs, HL7 FHIR, and Digital Twin technologies. Collaborates with hospitals,
+    research institutes, and EU-connected healthcare initiatives.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: albertomarfoglia
+    - network: Google Scholar
+      username: "BBfxevAAAAAJ"
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: "alberto-marfoglia-4212082bb"
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+    Education:
+      - institution: University of Bologna
+        location: Bologna, Italy
+        area: Computer Science and Engineering
+        studyType: PhD
+        start_date: 2023
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Trustworthy AI, clinical data harmonization, Digital Twins
+          - Knowledge graphs and graph learning for healthcare prediction
+          - Best Workshop Paper Award (IEEE PerCom DIGITA 2025)
+
+      - institution: University of Bologna
+        location: Cesena, Italy
+        area: Computer Science and Engineering
+        studyType: MSc
+        start_date: 2020
+        end_date: 2023
+        score: "110/110 cum laude (29.8/30 average)"
+        highlights:
+          - Thesis with Rizzoli Orthopaedic Institute (Bologna)
+          - Healthcare interoperability and digital modeling
+
+      - institution: University of Bologna
+        location: Cesena, Italy
+        area: Computer Science and Engineering
+        studyType: BSc
+        start_date: 2017
+        end_date: 2020
+        score: "110/110 cum laude (28.5/30 average)"
+        highlights:
+          - Pre-hospital trauma tracking system (clinical collaboration)
+          - Early graduation with honors award
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+
+      - company: Inria – HEKA Research Unit (INSERM – Université Paris Cité)
+        position: Visiting PhD Researcher
+        location: Paris, France
+        start_date: 2025
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed graph-based clinical outcome prediction models (GCNs, KG learning)
+          - Analyzed impact of clinical data standards (FHIR, OMOP, SPHN)
+          - Collaborated with Nantes University Hospital (CHU de Nantes) within NEUROVASC project
+          - Worked on explainable AI for healthcare decision support
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Bologna
+        position: ICT Research Consultant (AlmaHealthDB)
+        location: Bologna, Italy
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Engineered secure multi-user research infrastructure for AlmaHealthDB
+          - AlmaHealthDB: EU-connected healthcare data infrastructure (IRCCS network: Rizzoli, S. Orsola-Malpighi, Institute of Neurological Sciences)
+          - Implemented GPU optimization, role-based access control, secure data exchange
+          - Supported interoperability with regional infrastructure (Lepida S.c.p.A.)
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Frontiers in Digital Health
+        position: Topic Coordinator
+        location: Remote
+        start_date: 2024
+        end_date: 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Coordinated special issue on Digital Twins in healthcare
+          - Managed peer-review and interdisciplinary editorial workflow
+          - Defined scientific scope on AI, interoperability, and patient-centered systems
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Bologna
+        position: Research Fellow
+        location: Bologna, Italy
+        start_date: 2023
+        end_date: 2023
+        highlights:
+          - Designed FHIR-based clinical data transformation pipeline (Heal Italia)
+          - Developed ETL workflows for heterogeneous healthcare datasets
+          - Contributed to data lake and backend infrastructure design
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: MEBLabs
+        position: GenAI Research Engineer
+        location: Fano, Italy
+        start_date: 2023
+        end_date: 2023
+        highlights:
+          - Developed RAG pipelines using LLMs and vector databases (FAISS)
+          - Built semantic search systems with OpenAI API
+          - Deployed AI prototypes on AWS cloud infrastructure
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - company: I-Tel S.r.l. / University of Bologna
+        position: Research Scholarship Holder
+        location: Cesena, Italy
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - Designed microservice-based interoperability platform for healthcare systems
+          - Implemented HL7, FHIR, REST integration with legacy systems
+          - Built hexagonal architecture for healthcare data exchange
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+
+      - name: CONNECTED – Digital Twin Healthcare Platform
+        start_date: 2023
+        end_date: present
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Knowledge graph-driven Digital Twin architecture for healthcare
+          - Patient-centric APIs for clinical data integration and prediction
+          - Applied to stroke-risk and clinical outcome prediction benchmarks
+          - Publications in PerCom (2024–2025), Frontiers in Digital Health, FGCS
+          - Award: Best Workshop Paper (DIGITA 2025)
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: AlmaHealthDB
+        start_date: 2024
+        end_date: present
+        highlights:
+          - Distributed healthcare research infrastructure across IRCCS hospitals (Bologna)
+          - Supports Rizzoli Orthopaedic Institute, S. Orsola-Malpighi, Neurological Sciences Institute
+          - EU-connected ecosystem (METASTRA, CPW, regional health service integration)
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: FHIR Clinical Data Transformation Pipeline
+        start_date: 2023
+        end_date: present
+        highlights:
+          - ETL pipeline for converting heterogeneous clinical datasets into HL7 FHIR
+          - Used in MOTU dataset, METASTRA project, and multi-center studies
+          - SNOMED CT-based semantic mapping and validation
+
+    Publications:
+      - title: Challenges of health data standard adoption and usage: a systematic review
+        journal: Journal of Biomedical Informatics
+        year: 2026
+        doi: https://doi.org/10.1016/j.jbi.2026.105022
+
+      - title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
+        journal: Future Generation Computer Systems
+        year: 2026
+        doi: https://doi.org/10.1016/j.future.2026.108380
+
+      - title: Towards real-world clinical data standardization using FHIR pipelines
+        journal: Computers in Biology and Medicine
+        year: 2025
+        doi: https://doi.org/10.1016/j.compbiomed.2025.109745
+
+      - title: CONNECTED: Knowledge Graph-driven Digital Twin platform
+        journal: Frontiers in Digital Health
+        year: 2023
+        doi: https://doi.org/10.3389/fdgth.2023.1322428
+
+      - title: FHIR-standardized clinical dataset for rehabilitation pathways
+        journal: Scientific Data (Nature)
+        year: 2024
+        doi: https://doi.org/10.1038/s41597-024-03593-6
+
+      - title: MLOps and LLM-based clinical data harmonization
+        journal: CEUR / IEEE Workshops
+        year: 2025
+        highlights:
+          - PerCom Workshops, MLOps25, SWAT4HCLS
+
+      # ---- Newly added publications ----
+
+      - title: Clinical Data Goes MEDS? Let’s OWL make sense of it
+        authors:
+          - Marfoglia A.
+          - Jhee J. H.
+          - Coulet A.
+        venue: SWAT4HCLS Conference (accepted)
+        year: 2026
+        doi: https://doi.org/10.48550/arXiv.2601.04164
+        note: arXiv preprint
+
+      - title: A LLMOps-Driven Framework for Clinical Data Harmonization
+        authors:
+          - Marfoglia A.
+          - Robustelli A.
+          - D’Errico C.
+          - Mellone S.
+          - Carbonaro A.
+        venue: Machine Learning Operations (MLOps25), CEUR Workshop Proceedings
+        year: 2025
+        pages: 25–36
+        url: https://ceur-ws.org/Vol-4109/paper3.pdf
+
+      - title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
+        authors:
+          - Robustelli A.
+          - Marfoglia A.
+          - D’Errico C.
+          - Mellone S.
+          - Carbonaro A.
+        venue: Machine Learning Operations (MLOps25), CEUR Workshop Proceedings
+        year: 2025
+        pages: 1–12
+        url: https://ceur-ws.org/Vol-4109/paper1.pdf
+
+      - title: CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare
+        authors:
+          - Marfoglia A.
+          - D’Errico C.
+          - Nardini F.
+          - Mellone S.
+          - Carbonaro A.
+        venue: IEEE PerCom Workshops 2025
+        year: 2025
+        doi: https://doi.org/10.1109/PerComWorkshops65533.2025.00051
+
+      - title: Representation of Machine Learning Models to Enhance Simulation Capabilities Within Digital Twins in Personalized Healthcare
+        authors:
+          - Marfoglia A.
+          - Nardini F.
+          - Mellone S.
+          - Carbonaro A.
+        venue: IEEE PerCom Workshops 2024
+        year: 2024
+        doi: https://doi.org/10.1109/PerComWorkshops59983.2024.10502444
+
+      - title: MOTU on FHIR: A preliminary strategy to enable interoperability for retrospective dataset standardization
+        authors:
+          - Arcobelli V. A.
+          - Moscato S.
+          - Marfoglia A.
+          - Nardini F.
+          - Randi P.
+          - Davalli A.
+          - Carbonaro A.
+          - Palumbo P.
+          - Chiari L.
+          - Mellone S.
+        venue: IEEE EMBS Conference on Data Science and Engineering in Healthcare, Medicine and Biology
+        year: 2023
+        doi: https://doi.org/10.1109/IEEECONF58974.2023.10404816
+
+    Skills:
+
+      AI & Machine Learning:
+        - Graph Neural Networks (GCN)
+        - Knowledge Graph Embeddings
+        - Explainable AI (SHAP, attention models)
+        - NLP & LLMs (HuggingFace, BioBERT, BioMistral)
+        - RAG systems
+
+      Healthcare Data:
+        - HL7 FHIR
+        - OMOP
+        - openEHR
+        - SNOMED CT, LOINC
+        - Clinical data harmonization
+
+      Semantic Technologies:
+        - RDF / OWL
+        - SPARQL
+        - Ontology engineering (Protégé)
+        - Apache Jena
+
+      Software & Infrastructure:
+        - Python, Java, Scala, Kotlin, JavaScript
+        - Docker, Git, CI/CD (GitLab)
+        - AWS cloud
+        - Linux systems, HPC
+        - Microservices, hexagonal architecture
+
+    Languages:
+      - name: Italian
+        level: Native
+      - name: English
+        level: C1
+      - name: French
+        level: A2
+
+    Collaborations:
+      - CHU de Nantes (France) – NEUROVASC project
+      - Rizzoli Orthopaedic Institute (Bologna)
+      - S. Orsola-Malpighi Hospital (Bologna)
+      - Institute of Neurological Sciences (Bologna)
+      - METASTRA EU-linked clinical study
+      - Cancer Prevention at Work (CPW) consortium
+"""

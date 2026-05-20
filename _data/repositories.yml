@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - albertomarfoglia
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - albertomarfoglia/meds-to-owl-examples
+  - TeamHeKA/meds-ontology
+  - TeamHeKA/meds2rdf
+  - albertomarfoglia/FHIR-mapping-pipeline
+  - albertomarfoglia/patient-centric-GNNs
