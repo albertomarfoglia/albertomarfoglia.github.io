@@ -24,37 +24,27 @@ announcements:
 latest_posts:
   enabled: false
 ---
+I am a PhD candidate in Computer Science and Engineering at the University of Bologna, working on AI-driven healthcare data systems, semantic interoperability, and trustworthy machine learning.
 
-I am a PhD candidate in Computer Science and Engineering at the University of Bologna, specializing in AI-driven healthcare data systems, semantic interoperability, and trustworthy machine learning.
+My work combines machine learning, knowledge graphs, semantic web technologies, and healthcare data engineering to build interoperable, scalable, and explainable solutions for clinical and research environments. I specialize in HL7 FHIR, RDF/OWL ontologies, graph learning, and predictive AI models for healthcare.
 
-My work combines machine learning, knowledge graphs, semantic web technologies, and healthcare data engineering to design interoperable, scalable, and explainable solutions for clinical and research environments. I work extensively with HL7 FHIR, RDF/OWL ontologies, graph representation learning, and AI-based predictive modelling.
+I collaborate with hospitals, biomedical research units, and interdisciplinary teams on real-world healthcare infrastructures and applied AI solutions, with experience spanning clinical data harmonization, AI-assisted analytics, distributed systems, and secure data management.
 
-Beyond academia, I collaborate with hospitals, biomedical research units, and interdisciplinary teams on real-world healthcare infrastructures and applied AI solutions. My experience spans clinical data harmonization, semantic interoperability, AI-assisted analytics, distributed systems, and secure data management in regulated environments.
+Currently, I contribute to the activities of the HEKA research unit (INRIA–INSERM–Université Paris Cité), collaborating with Nantes University Hospital (CHU de Nantes) within the NEUROVASC project on graph-based outcome prediction and explainable AI.
 
-Currently, I contribute to the activities of the HEKA research unit (INRIA–INSERM–Université Paris Cité), collaborating with Nantes University Hospital (CHU de Nantes) within the NEUROVASC project on graph-based outcome prediction and explainable AI for healthcare applications.
+I also contributed to AlmaHealthDB, a healthcare research infrastructure involving the University of Bologna and the IRCCS hospital network of Bologna, including the Rizzoli Orthopaedic Institute, the Institute of Neurological Sciences of Bologna, and the S. Orsola-Malpighi Polyclinic. The platform supports secure and interoperable management of healthcare research data for European collaborative initiatives.
 
-I also contributed to AlmaHealthDB, a shared healthcare research infrastructure involving the University of Bologna and the IRCCS hospital network of Bologna, including:
-- Rizzoli Orthopaedic Institute
-- Institute of Neurological Sciences of Bologna
-- S. Orsola-Malpighi Polyclinic
+My interests include:
 
-The platform supports secure, interoperable, and scalable management of healthcare research data and is connected to European collaborative initiatives such as METASTRA and Cancer Prevention at Work (CPW).
-
-My technical and consulting interests include:
-- Healthcare interoperability and data standards (HL7 FHIR, OMOP, openEHR)
+- Healthcare interoperability and standards (HL7 FHIR, OMOP, openEHR)
 - Clinical data harmonization and ETL pipelines
-- AI for clinical data and predictive analytics
-- Knowledge graphs and semantic technologies (e.g. LOINC, ICD, SNOMED, etc.)
+- AI for healthcare analytics and predictive modelling
+- Knowledge graphs and semantic technologies
 - Explainable and trustworthy AI
-- Digital Twin architectures for healthcare
-- Retrieval-Augmented Generation (RAG) and LLM-assisted workflows
+- Digital Twins for healthcare
+- RAG systems and LLM-assisted workflows
 
-I have authored publications in international journals and conferences including:
-- IEEE PerCom Workshops
-- Frontiers in Digital Health
-- Scientific Data (Nature Portfolio)
-- Computers in Biology and Medicine
-- Future Generation Computer Systems
+I have authored publications in international venues including IEEE PerCom Workshops, Frontiers in Digital Health, Scientific Data (Nature Portfolio), Computers in Biology and Medicine, and Future Generation Computer Systems.
 
 I am interested in collaborations with healthcare organizations, research institutions, and companies working on AI, digital health, biomedical data engineering, and interoperable healthcare platforms.
 
