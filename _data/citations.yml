@@ -1,8 +1,59 @@
-# metadata:
-#   last_updated: '2026-05-15'
-# papers:
-#   qc6CJjYAAAAJ:-1WLWRmjvKAC:
-#     citations: 4
-#     title: THE DULONG-PETIT LAW OF SPECIFIC HEATS
-#     year: Unknown Year
-  
+metadata:
+  last_updated: '2026-05-29'
+papers:
+  BBfxevAAAAAJ:IjCSPb-OGe4C:
+    citations: 9
+    title: FHIR-standardized data collection on the clinical rehabilitation pathway of trans-femoral amputation patients
+    year: '2024'
+  BBfxevAAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: 'Implementing digital twins in healthcare: pathways to person-centric solutions'
+    year: '2025'
+  BBfxevAAAAAJ:UeHWp8X0CEIC:
+    citations: 6
+    title: Representation of machine learning models to enhance simulation capabilities within digital twins in personalized healthcare
+    year: '2024'
+  BBfxevAAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
+    year: '2025'
+  BBfxevAAAAAJ:WF5omc3nYNoC:
+    citations: 2
+    title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
+    year: '2026'
+  BBfxevAAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: A LLMOps-Driven Framework for Clinical Data Harmonization
+    year: '2025'
+  BBfxevAAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Clinical Data Goes MEDS? Let's OWL make sense of it
+    year: '2026'
+  BBfxevAAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: 'Toward Interoperable Variable Definitions: A FHIR-Based Standardization Strategy for the METASTRA Project'
+    year: '2026'
+  BBfxevAAAAAJ:d1gkVwhDpl0C:
+    citations: 32
+    title: 'Towards real-world clinical data standardization: A modular FHIR-driven transformation pipeline to enhance semantic interoperability in healthcare'
+    year: '2025'
+  BBfxevAAAAAJ:eQOLeE2rZwMC:
+    citations: 3
+    title: 'Corrigendum: CONNECTED: leveraging digital twins and personal knowledge graphs in healthcare digitalization'
+    year: '2024'
+  BBfxevAAAAAJ:u-x6o8ySG0sC:
+    citations: 7
+    title: 'MOTU on FHIR: A preliminary strategy to enable interoperability for retrospective dataset standardization'
+    year: '2023'
+  BBfxevAAAAAJ:u5HHmVD_uO8C:
+    citations: 2
+    title: 'CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare'
+    year: '2025'
+  BBfxevAAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: 'Challenges of health data standard adoption and usage: a systematic review'
+    year: '2026'
+  BBfxevAAAAAJ:zYLM7Y9cAGgC:
+    citations: 23
+    title: 'CONNECTED: leveraging digital twins and personal knowledge graphs in healthcare digitalization'
+    year: '2023'
