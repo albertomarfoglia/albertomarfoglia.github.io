@@ -145,6 +145,22 @@ cv:
             studies
           - SNOMED CT-based semantic mapping and validation
     Publications:
+      - title: "Toward Interoperable Variable Definitions: A FHIR-Based Standardization Strategy for the METASTRA Project"
+        authors:
+          - Serena Moscato
+          - Alberto Marfoglia
+          - Valerio Arcobelli
+          - Maria Rita Intagliata
+          - Cristiana Griffoni
+          - Giovanni Barbanti-Bròdano
+          - Alessandro Gasbarrini
+          - Antonella Carbonaro
+          - Sabato Mellone
+        publisher: Studies in health technology and informatics
+        releaseDate: 2026
+        url: https://doi.org/10.3233/shti260393
+        summary: Creating a semantically coherent clinical knowledge base for the METASTRA project, enabling more effective data reuse and supporting evidence generation in multicenter clinical studies.
+
       - title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
         authors:
           - Alberto Marfoglia
