@@ -24,11 +24,12 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
 I am a PhD candidate in Computer Science and Engineering at the University of Bologna, working on AI-driven healthcare data systems, semantic interoperability, and trustworthy machine learning.
 
-My work combines machine learning, knowledge graphs, semantic web technologies, and healthcare data engineering to build interoperable, scalable, and explainable solutions for clinical and research environments. I specialize in HL7 FHIR, RDF/OWL ontologies, graph learning, and predictive AI models for healthcare.
+My work combines machine learning, knowledge graphs, semantic web technologies, and healthcare data engineering to build interoperable, scalable, and explainable solutions for clinical and research environments. I specialize in data standards (e.g. HL7 FHIR), RDF/OWL ontologies, graph learning, and predictive AI models for healthcare.
 
-I collaborate with hospitals, biomedical research units, and interdisciplinary teams on real-world healthcare infrastructures and applied AI solutions, with experience spanning clinical data harmonization, AI-assisted analytics, distributed systems, and secure data management.
+<!-- I collaborate with hospitals, biomedical research units, and interdisciplinary teams on real-world healthcare infrastructures and applied AI solutions, with experience spanning clinical data harmonization, AI-assisted analytics, distributed systems, and secure data management.
 
 Currently, I contribute to the activities of the HEKA research unit (INRIA–INSERM–Université Paris Cité), collaborating with Nantes University Hospital (CHU de Nantes) within the NEUROVASC project on graph-based outcome prediction and explainable AI.
 
@@ -46,7 +47,11 @@ My interests include:
 
 I have authored publications in international venues including IEEE PerCom Workshops, Frontiers in Digital Health, Scientific Data (Nature Portfolio), Computers in Biology and Medicine, and Future Generation Computer Systems.
 
-I am interested in collaborations with healthcare organizations, research institutions, and companies working on AI, digital health, biomedical data engineering, and interoperable healthcare platforms.
+I am interested in collaborations with healthcare organizations, research institutions, and companies working on AI, digital health, biomedical data engineering, and interoperable healthcare platforms. -->
+
+<blockquote>
+“My focus is on analytical thinking, as technologies change, but a problem-solving mindset remains essential”
+</blockquote>
 
 <blockquote>
   “Data becomes valuable when it is understandable, interoperable, and actionable.”

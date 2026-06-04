@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Alberto
-middle_name: 
+middle_name:
 last_name: Marfoglia
 email: a.marfoglia@hotmail.it
 contact_note: >
-  Feel free to contact me via email or follow me on social media. Reach out to me with collaboration opportunities, or digital health projects. 
+  Feel free to contact me via email or follow me on social media. Reach out to me with collaboration opportunities, or digital health projects.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Alberto Marofglia website.
 footer_text:
@@ -53,7 +53,7 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: false 
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
