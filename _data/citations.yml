@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-26'
 papers:
   BBfxevAAAAAJ:IjCSPb-OGe4C:
     citations: 9
@@ -18,7 +18,7 @@ papers:
     title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
     year: '2025'
   BBfxevAAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 4
     title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
     year: '2026'
   BBfxevAAAAAJ:Y0pCki6q_DkC:
@@ -34,7 +34,7 @@ papers:
     title: 'Toward Interoperable Variable Definitions: A FHIR-Based Standardization Strategy for the METASTRA Project'
     year: '2026'
   BBfxevAAAAAJ:d1gkVwhDpl0C:
-    citations: 32
+    citations: 34
     title: 'Towards real-world clinical data standardization: A modular FHIR-driven transformation pipeline to enhance semantic interoperability in healthcare'
     year: '2025'
   BBfxevAAAAAJ:eQOLeE2rZwMC:
@@ -47,13 +47,13 @@ papers:
     year: '2023'
   BBfxevAAAAAJ:u5HHmVD_uO8C:
     citations: 2
-    title: 'CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare'
+    title: 'Connected: A knowledge graph-driven platform for clinical data harmonization and personalized digital twin-based healthcare'
     year: '2025'
   BBfxevAAAAAJ:ufrVoPGSRksC:
     citations: 0
     title: 'Challenges of health data standard adoption and usage: a systematic review'
     year: '2026'
   BBfxevAAAAAJ:zYLM7Y9cAGgC:
-    citations: 23
+    citations: 25
     title: 'CONNECTED: leveraging digital twins and personal knowledge graphs in healthcare digitalization'
     year: '2023'
