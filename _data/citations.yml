@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-03'
 papers:
   BBfxevAAAAAJ:IjCSPb-OGe4C:
     citations: 9
@@ -34,7 +34,7 @@ papers:
     title: 'Toward Interoperable Variable Definitions: A FHIR-Based Standardization Strategy for the METASTRA Project'
     year: '2026'
   BBfxevAAAAAJ:d1gkVwhDpl0C:
-    citations: 34
+    citations: 35
     title: 'Towards real-world clinical data standardization: A modular FHIR-driven transformation pipeline to enhance semantic interoperability in healthcare'
     year: '2025'
   BBfxevAAAAAJ:eQOLeE2rZwMC:
