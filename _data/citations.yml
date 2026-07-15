@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-15'
 papers:
   BBfxevAAAAAJ:IjCSPb-OGe4C:
-    citations: 9
+    citations: 10
     title: FHIR-standardized data collection on the clinical rehabilitation pathway of trans-femoral amputation patients
     year: '2024'
   BBfxevAAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Representation of machine learning models to enhance simulation capabilities within digital twins in personalized healthcare
     year: '2024'
   BBfxevAAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
     year: '2025'
   BBfxevAAAAAJ:WF5omc3nYNoC:
@@ -34,7 +34,7 @@ papers:
     title: 'Toward Interoperable Variable Definitions: A FHIR-Based Standardization Strategy for the METASTRA Project'
     year: '2026'
   BBfxevAAAAAJ:d1gkVwhDpl0C:
-    citations: 36
+    citations: 37
     title: 'Towards real-world clinical data standardization: A modular FHIR-driven transformation pipeline to enhance semantic interoperability in healthcare'
     year: '2025'
   BBfxevAAAAAJ:eQOLeE2rZwMC:
