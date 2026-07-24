@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   BBfxevAAAAAJ:IjCSPb-OGe4C:
     citations: 10
@@ -14,7 +14,7 @@ papers:
     title: Representation of machine learning models to enhance simulation capabilities within digital twins in personalized healthcare
     year: '2024'
   BBfxevAAAAAJ:W7OEmFMy1HYC:
-    citations: 1
+    citations: 2
     title: Feasibility of MLOps-based healthcare pipelines in ensuring the Cybersecurity Framework
     year: '2025'
   BBfxevAAAAAJ:WF5omc3nYNoC:
@@ -22,7 +22,7 @@ papers:
     title: A knowledge graph-driven framework for deploying AI-powered patient digital twins
     year: '2026'
   BBfxevAAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: A LLMOps-Driven Framework for Clinical Data Harmonization
     year: '2025'
   BBfxevAAAAAJ:YsMSGLbcyi4C:
@@ -46,7 +46,7 @@ papers:
     title: 'MOTU on FHIR: A preliminary strategy to enable interoperability for retrospective dataset standardization'
     year: '2023'
   BBfxevAAAAAJ:u5HHmVD_uO8C:
-    citations: 2
+    citations: 3
     title: 'Connected: A knowledge graph-driven platform for clinical data harmonization and personalized digital twin-based healthcare'
     year: '2025'
   BBfxevAAAAAJ:ufrVoPGSRksC:
